@@ -1,17 +1,36 @@
-# runway
+# 👕 Runway - Fashion Store UI
 
-A new Flutter project.
+A fashion store UI project built with Flutter.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+Runway is a Flutter UI practice project inspired by modern fashion e-commerce applications.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Fashion home page
+- Categories browsing
+- Product grid
+- Product details UI
+- Filter and sorting interface
+- Bottom navigation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies
+
+- Flutter
+- Dart
+- Material Design
+
+## 📸 Screenshots
+
+![Home](screenshots/home.png)
+
+![Products](screenshots/products.png)
+
+![Products](screenshots/details.png)
+
+![Products](screenshots/bottomSheet.png)
+
+## 👨‍💻 Developer
+
+Yousif Salama
